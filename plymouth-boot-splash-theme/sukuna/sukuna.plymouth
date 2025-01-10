@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=sukuna
+Description=gooz
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/sukuna/animation
+ScriptFile=/usr/share/plymouth/themes/sukuna/animated-boot.script
